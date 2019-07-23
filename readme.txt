@@ -1,5 +1,2 @@
-Thanks for downloading this theme!
+This is about a school project
 
-Theme Name: Company
-Theme URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-Author: BootstrapMade
