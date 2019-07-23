@@ -1,0 +1,109 @@
+
+.navbar-brand img {
+    width: 50px !important;
+    height: 50px !important;
+    position: relative;
+    top: -15px !important;
+}
+
+.navbar-brand > img {
+    display: block;
+}
+
+.mars{
+	position: relative;
+	top:-45px;
+	left: 55px;
+	font-style: italic;
+	color: #f7c052 !important;
+}
+
+.page-header{
+ font-size: 25px;
+}
+
+.create{
+	text-align: center;
+	font-size: 16px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.form-group .form-control {
+    padding: 7px 12px;
+    border-color: #f2f2f2;
+    box-shadow: none;
+}
+
+.form-control {
+    height: 46px;
+}
+
+.btn-primary{
+	position: relative;
+	left: 190px;
+	background-color: #f7c052;
+	border-color: #f7c052;
+}
+
+.btn-primary:hover{
+	background-color: #f7c052;
+	border-color: #f7c052;
+}
+
+#admin{
+	color: #f7c052;
+}
+
+.dropdown a{
+	color: #f7c052;
+}
+
+.dropdown-menu > li > a{
+	color: #f7c052;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #f7c052;
+    text-decoration: none;
+    background-color: #f5f5f5;
+}
+
+.meet{
+	color: #555;
+}
+
+.image img{
+	width: 200px !important;
+	height: 200px !important;
+	border: 2px #000 solid;
+	padding: 2px;
+}
+
+.image{
+	position: relative;
+	left: 150px;
+
+}
+
+.panel-default{
+
+	
+	color: #fff;
+   
+    border-color: #f7c052;
+}
+
+.heg{
+
+	background-color: #f7c052 !important;
+	color: #fff !important;
+}
+
+.bod p{
+	color: #000 !important;
+}
+
+.bod table{
+	color: #000 !important;
+}

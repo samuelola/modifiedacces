@@ -1,0 +1,83 @@
+.navbar-brand img {
+    width: 50px !important;
+    height: 50px !important;
+    position: relative;
+    top: -15px !important;
+}
+
+.navbar-brand > img {
+    display: block;
+}
+
+#admin{
+	color: #5bc0de;
+}
+
+.dropdown a{
+	color: #5bc0de;
+}
+
+.dropdown-menu > li > a{
+	color: #5bc0de;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #5bc0de;
+    text-decoration: none;
+    background-color: #f5f5f5;
+}
+
+.page-header{
+ font-size: 25px;
+}
+
+.form-group .form-control {
+    padding: 7px 12px;
+    border-color: #f2f2f2;
+    box-shadow: none;
+}
+
+.form-control {
+    height: 46px;
+}
+
+.create{
+	text-align: center;
+	font-size: 16px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.btn-info {
+    padding: 8px 20px !important;
+    background-color: #5bc0de !important;
+    border-color: #46b8da !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+    border: none !important;
+    margin-top: 0px !important;
+    margin-left: 5px !important;
+}
+
+.panel-default{
+
+	
+	color: #fff;
+   
+    border-color: #5bc0de;
+}
+
+.heg1{
+
+	background-color: #5bc0de !important;
+	color: #fff !important;
+}
+
+.bod1 p{
+	color: #000 !important;
+}
+
+.bod1 table{
+	color: #000 !important;
+}
